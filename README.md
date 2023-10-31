@@ -2,7 +2,7 @@
 
 <h1 align="center">Site HBO Max</h1>
 <h4 align="center">Clone com modificações</h4>
-<a align="center">https://lrlacerda.github.io/HBOmax/</a>
+<p align="center">https://lrlacerda.github.io/HBOmax/</p>
 
 <p align="center">
   O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max</a>, com o intuito de reproduzir a interface, com algumas modificações</a>.
